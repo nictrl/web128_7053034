@@ -1,3 +1,21 @@
 [
-  {"hello"}
+  {"name":"Dark Knight",
+   "Director": "Christopher Nolan ",
+   "Producer":"wb",
+   "Available At":"Netflix"
+  
+  },
+  {"name":"Dark Knight",
+   "Director": "Christopher Nolan ",
+   "Producer":"wb",
+   "Available At":"Netflix"
+  
+  },
+  {"name":"Dark Knight",
+   "Director": "Christopher Nolan ",
+   "Producer":"wb",
+   "Available At":"Netflix"
+  
+  }
+  
 ]
